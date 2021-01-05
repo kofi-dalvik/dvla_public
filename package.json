@@ -8,7 +8,7 @@
     "fake": "cd ./fake-json-server/database/snapshots && json-server ../../app.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "faker": "^4.1.0",
     "lodash": "^4.17.11",
     "moment": "^2.22.2",
